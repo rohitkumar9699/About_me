@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    color: white;
+    background-color: black;
+}
+.project h1{
+    padding: 5px;
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    text-shadow: 2px 2px aqua;
+    Letter-spacing: 2px;    
+}
+.project p{
+    padding: 10px 50px;
+    font-size: 25px ;
+    text-align: center;   
+    font-family: cursive;
+    Letter-spacing: 1px;
+}
+.front
+{
+    position: absolute;
+    width: 100%;
+    height: 68%;
+    display: flex;
+}
+.pr1
+{
+    position: relative;
+    margin-top: 1%;
+    margin-left: 5%;
+    height: 95%;
+    width: 26%;
+    /* border: 4px solid red; */
+    display: inline-block;
+
+    /* background-color: red; */
+    background: url("attendance.jpeg") no-repeat;
+    background-position: top;
+    background-size: 160%;
+    padding: 2px;
+    transition: 2s;
+}
+.pr1:hover
+{
+    background: url("atttendance2.png") no-repeat;
+    background-position: top;
+    background-size: 160%;
+    background-position-x: -60px;
+    padding: 2px;
+    transition: 2s;
+}
+.pr1 a
+{
+    position: absolute;
+    width: 52%;
+    height: 10%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    padding: 2px;
+    
+    font-size: 200%;
+    text-decoration: none;
+    background-color: rgb(220, 255, 47);
+    bottom: 10%;
+    left: 25%;   
+}   
+.pr1 a:hover
+{
+    background-color: aqua;
+    font-size: 180%; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: 2s;
+}
+.pr2
+{
+    position: relative;
+    margin-top: 1%;
+    margin-left: 5%;
+    height: 95%;
+    width: 26%;
+    /* background-color: red; */
+    display: inline-block;
+
+    background: url("chatbot1.jpeg") no-repeat;
+    background-position: top;
+    background-size: 150%;
+    padding: 2px;
+    transition: 2s;
+    background-position-x: -160px;
+}
+.pr2:hover
+{
+    background: url("chatbot2.png") no-repeat;
+    background-position: top;
+    background-size: 100%;
+    background-position: cover;
+    background-position-y: -1   00px;
+    padding: 2px;
+    transition: 2s;
+}
+.pr2 a
+{
+    position: absolute;
+    width: 52%;
+    height: 10%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    padding: 2px;
+
+    position: absolute;
+    font-size: 200%;
+    text-decoration: none;
+    background-color: greenyellow;
+    bottom: 10%;
+    left: 25%;
+}
+.pr2 a:hover
+{
+    background-color: aqua;
+    font-size: 180%; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: 2s;
+}
+.pr3
+{
+    position: relative;
+    margin-top: 1%;
+    margin-left: 5%;
+    height: 95%;
+    width: 26%;
+    background-color: red;
+    display: inline-block;
+
+    background: url("homeautomation1.jpeg") no-repeat;
+    background-position: top;
+    background-size: 160%;
+    padding: 2px;
+    transition: 2s;
+}
+.pr3:hover
+{
+    background: url("homeautomation2.jpeg") no-repeat;
+    background-position: top;
+    background-size: 160%;
+    background-position-x: -60px;
+    padding: 2px;
+    transition: 2s;
+}
+.pr3 a
+{
+    position: absolute;
+    width: 52%;
+    height: 10%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    padding: 2px;
+
+    position: absolute;
+    font-size: 200%;
+    text-decoration: none;
+    background-color: greenyellow;
+    bottom: 10%;
+    left: 25%;
+}
+.pr3 a:hover
+{
+    background-color: aqua;
+    font-size: 180%; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition: 2s;
+}
+.details
+{
+    margin-top: 450px;
+     
+}
+section
+{
+    position: relative;
+    height: 600px;
+    border: 2px solid red; 
+    /* font-size: 40px; */
+}
+.h1
+{
+    margin: 5px ;
+    text-align: center;
+}
+.p1content
+{
+    width: 550px;
+    height: 500px;
+    padding: 9px;
+    border: 5px solid  yellow;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
